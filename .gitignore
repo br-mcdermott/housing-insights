@@ -1,3 +1,7 @@
+/data/*
+!/data/readme.md
+!/data/processed
+
 
 
 
@@ -18,7 +22,10 @@ _site/
 secrets.json
 
 
-
+####################
+# Pycharm Idea Folder
+####################
+.idea/
 
 
 ################################################
